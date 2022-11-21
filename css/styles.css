@@ -33,8 +33,8 @@ p{
 hr {
     border: dotted #EAF6F6;
     border-bottom: none; /*to avoid extra line or to shrink the border size or to get rid of another border*/
-    width: 4%;
-    margin: 100px auto;
+    width: 8%;
+    margin: 80px auto;
 }
 
 a {
@@ -44,16 +44,17 @@ a {
     text-decoration: none;
 }
 
-a:hover{
+a:hover {
     color: #EAF6F6;
 }
 
 .top-container {
-    background-color: #EAF6F6;
+    background-color: #FFFBC1;
     position: relative;
     padding-top: 100px;
 }
 .middle-container {
+   
     margin: 100px 0;
     
 }
@@ -130,15 +131,15 @@ color: #11999E;
     color: #ffffff;
     font-size: 20px;
     padding: 10px 20px 10px 20px;
-    text-decoration: none;
+    text-decoration : none;
   }
   
   .btn:hover {
-    background: #30EC3B;
-    background-image: -webkit-linear-gradient(top, #30EC3B, #2BC4AD);
-    background-image: -moz-linear-gradient(top, #30EC3B, #2BC4AD);
-    background-image: -ms-linear-gradient(top, #30EC3B, #2BC4AD);
-    background-image: -o-linear-gradient(top, #30EC3B, #2BC4AD);
-    background-image: linear-gradient(to bottom, #30EC3B, #2BC4AD);
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
     text-decoration: none;
   }
